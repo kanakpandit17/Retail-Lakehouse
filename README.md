@@ -13,9 +13,8 @@ The products are then shipped to the customers' addresses. A shipment is tracked
 
 One order can have multiple products in them. 
 
-### Buttons you might want to use
+### Details
 
 - **Quick Reference**: More details about the business and the dataset can be found here: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?datasetId=55151&searchQuery=data+engineer
-- **HTML | Preview**: *HTML* to see the markup generated from your Markdown text, *Preview* to see how it looks like
 
 
